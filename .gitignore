@@ -132,6 +132,5 @@ dmypy.json
 data/
 out/
 .idea/
-out/
 env_miscellaneous/
 notebooks_lag/
