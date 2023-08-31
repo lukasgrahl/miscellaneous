@@ -130,5 +130,8 @@ dmypy.json
 
 # Ignore Folders
 data/
+out/
 .idea/
 out/
+env_miscellaneous/
+notebooks_lag/
